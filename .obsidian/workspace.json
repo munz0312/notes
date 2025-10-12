@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.51103591918945
+    "width": 248.5086555480957
   },
   "right": {
     "id": "8e299c96a7d2afc0",
@@ -142,31 +142,22 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "COMP33511_UX/Week_1/Law et. al. 2009.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
-            }
-          },
-          {
-            "id": "5e68c928ab7cab82",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Law et. al. 2009"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,8 +171,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a4d323ba18a0297",
+  "active": "663a57a803b7d569",
   "lastOpenFiles": [
+    "Pasted image 20251012184515.png",
     "Pasted image 20251012155854.png",
     "Pasted image 20251012155835.png",
     "Pasted image 20251012144458.png",

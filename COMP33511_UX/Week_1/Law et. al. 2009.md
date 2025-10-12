@@ -50,10 +50,27 @@ Framework - "UX should be understood through the conceptual lens of a community 
 
 Elements - Elements of the UX definition should be well defined. Measurable aspects such as physiological responses and user task performances - the traditional metrics of usability are considered relevant. "Subjective, psychological constructs like passion, type of affects, and consumer perception" are also relevant. Context in the definition for whom and where it is supposed to be used is important.
 
+Scoping - Some understand UX as further than interaction (broader scope). Definition should address what UX is rather than what causes UX.
 
+## Other reflections
 
+### Social or individual?
 
+An "experience" is personal, that happens "within" a person. Statement 3 "Only an individual can have an experience" was controversial (high SD=0.08). The paper says that though a group can experience together, this is only a result of the investigation of the experiences of each individual. It is this group experience that forms the social context that can affect UX (as well as other contextual factors: physical tech, task context). "Only an individual can have an experience but I believe that it can be externalised (albeit poorly) and recognised and related to by others."
 
+### User Experience in relation to Other Experiences
 
+Researchers do not want to restrict UX to merely interaction with just the product or artefact. The paper then lists other forms of 'experience' that could relate to UX.
 
+- Brand experience - the interaction with the company, its products and services (not only the branded products). It is broader than UX since every single bit of information you get from the company, its people, the media or from other people will affect the brand experience. Brand experience can affect UX - you may forgive flaws in a loved brand but outwardly expose ones in a hated brand.
+- Product experience - interactions with artefacts. Not all objects are commercial products, so narrower scope than UX. Also products often depend on external systems.
+- Service experience
+
+Overall, UX is scoped to products, systems, services and objects that a person interacts with through a user interface.
+
+![[Pasted image 20251012184515.png]]
+
+ISO UX definition - A person's perceptions and responses that result from the use or anticipated use of a product, system or service. 
+
+In conclusion, however, there were no significant differences between academic and industry workers, several versus fewer years of experience
 
