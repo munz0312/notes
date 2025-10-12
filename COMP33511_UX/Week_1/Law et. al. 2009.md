@@ -31,7 +31,7 @@ The next statements are mild/strong disagreements, such as the idea that UX is a
 It was found that that are variables about the respondents that may have affected how they answered the survey.
 The higher the expertise in UCD and or UX, the less they agreed on the subjective nature of UX. People who have expertise in these fields are likely to be aware of common characteristics in product requirements and will gain similar experiences across different projects. This may then make UX less subjective to them.
 
-Another thing that people with UX expertise agreed less on was the need for a defintion. This may imply that a concrete definition would benefit the non-experts for communication purposes.
+Another thing that people with UX expertise agreed less on was the need for a definition. This may imply that a concrete definition would benefit the non-experts for communication purposes.
 
 ### 5 Definitions
 ![[Pasted image 20251012155835.png]]
