@@ -48,9 +48,7 @@ Temporal - In this case its about when UX is brought about - before, during or a
 
 Framework - "UX should be understood through the conceptual lens of a community of practice, which iterative defines constructs germane to UX via its activities such as designing and critiquing objects of interest."
 
-Elements - Elements of the UX definition should be well defined. Measurable aspects such as physiological responses and user task performances - the traditional metrics of usability are considered relevant.
-
-
+Elements - Elements of the UX definition should be well defined. Measurable aspects such as physiological responses and user task performances - the traditional metrics of usability are considered relevant. "Subjective, psychological constructs like passion, type of affects, and consumer perception" are also relevant. Context in the definition for whom and where it is supposed to be used is important.
 
 
 
