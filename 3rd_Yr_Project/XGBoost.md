@@ -1,0 +1,1 @@
+Works by having decision trees as its base learners then combines them to improve the model's performance. Each new tree is trained to correct the errors

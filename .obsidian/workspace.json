@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "663a57a803b7d569",
+            "id": "54c5ad7523dbf591",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BMAN24521_Orgs/Week_3/Labour Process Theory.md",
+                "file": "3rd_Yr_Project/Comparison of multiple modalities for drug response prediction with learning curves using neural networks and XGBoost.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Labour Process Theory"
+              "title": "Comparison of multiple modalities for drug response prediction with learning curves using neural networks and XGBoost"
+            }
+          },
+          {
+            "id": "10a189e90460e799",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3rd_Yr_Project/Deep learning driven drug response prediction and mechanistic insights in cancer genomics, 2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deep learning driven drug response prediction and mechanistic insights in cancer genomics, 2025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5086555480957,
-    "collapsed": true
+    "width": 248.5086555480957
   },
   "right": {
     "id": "8e299c96a7d2afc0",
@@ -171,10 +185,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "663a57a803b7d569",
+  "active": "10a189e90460e799",
   "lastOpenFiles": [
-    "COMP33511_UX/Week_1/Law et. al. 2009.md",
+    "3rd_Yr_Project/Comparison of multiple modalities for drug response prediction with learning curves using neural networks and XGBoost.md",
+    "3rd_Yr_Project/Deep learning driven drug response prediction and mechanistic insights in cancer genomics, 2025.md",
+    "3rd_Yr_Project/XGBoost.md",
+    "Pasted image 20251013203512.png",
+    "Pasted image 20251013203404.png",
     "BMAN24521_Orgs/Week_3/Labour Process Theory.md",
+    "3rd_Yr_Project",
+    "COMP33511_UX/Week_1/Law et. al. 2009.md",
     "BMAN24521_Orgs/Week_3",
     "Pasted image 20251012184515.png",
     "Pasted image 20251012155854.png",
