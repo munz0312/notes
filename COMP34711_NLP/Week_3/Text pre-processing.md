@@ -48,6 +48,34 @@ This results in:
 - Very rare words (including unknown words) will be represented by their partss (subwords)
 - Can control k to control size of vocabulary
 
-We can use this on unseen words. If we come across "unlikeliest" and we don't have it in our vocabulary, we can break it down, and these words/subwords may be in our vocab 'un' + 'likely' + 'est'.
+![[Pasted image 20251014120709.png]]
 
-Then with the test data, the BPE segmenter
+Then with the test data, use this vocabulary to tokenise the text. We can use this on unseen words. If we came across 'l o w e r_', this would be tokenised as 'low' and 'er_', and we'd be able to estimate the definition of this word.
+
+---
+
+## Part of Speech (POS)
+These are things like nouns, verbs, adjectives. Features of the grammar of a language.
+![[Pasted image 20251014121624.png]]
+'Open' and 'closed' word classes. Open word class get new words - 'covid', 'Internet'
+Closed does not. 'the', 'if', 'he', 'she'
+
+![[Pasted image 20251014121934.png]]
+
+Words can be ambiguous so POS tagging can be used to alleviate this. It can be simple tags - verbs, adjectives, nouns etc... but there are more complex tag sets C5, C7, Penn Treebank
+![[Pasted image 20251014122724.png]]
+
+### Rule-based tagging
+- Start with a dictionary
+- Assign all possible tags to words from the dictionary/ vocabulary
+- Apply rules to selectively eliminate tags, leaving the correct tag for each word
+### Stochastic tagging
+- Probabilistic approach - how often does a word appear in its different forms
+- How likely is that word to appear as one of its forms, given that the previous word is (for example) a pronoun, determiner
+![[Pasted image 20251014123121.png]]
+Calculating the probabilities:
+	What is the probability of word i given that it has tag i, multiplied by the probability of seeing tag i given the previous word had tag i-1.
+![[Pasted image 20251014124424.png]]
+
+![[Pasted image 20251014123516.png]]
+![[Pasted image 20251014124219.png]]
