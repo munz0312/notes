@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "3rd_Yr_Project/Comparison of multiple modalities for drug response prediction with learning curves using neural networks and XGBoost.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Comparison of multiple modalities for drug response prediction with learning curves using neural networks and XGBoost"
+            }
+          },
+          {
+            "id": "ee8ad99c425f4beb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "COMP34711_NLP/Week_3/Text pre-processing.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +35,8 @@
               "title": "Text pre-processing"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,24 +185,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "a90e1963eb91c2a9",
+  "active": "1a4d323ba18a0297",
   "lastOpenFiles": [
+    "COMP34711_NLP/Week_3/Examples of tokenisers.md",
+    "Pasted image 20251015110404.png",
+    "3rd_Yr_Project/Deep learning driven drug response prediction and mechanistic insights in cancer genomics, 2025.md",
+    "3rd_Yr_Project/Comparison of multiple modalities for drug response prediction with learning curves using neural networks and XGBoost.md",
+    "COMP34711_NLP/Week_3/Text pre-processing.md",
     "Pasted image 20251014124414.png",
     "Pasted image 20251014124424.png",
     "Pasted image 20251014124219.png",
-    "COMP34711_NLP/Week_3/Text pre-processing.md",
     "Pasted image 20251014123516.png",
     "Pasted image 20251014123121.png",
     "Pasted image 20251014122724.png",
     "Pasted image 20251014121934.png",
     "Pasted image 20251014121624.png",
     "Pasted image 20251014120709.png",
-    "Pasted image 20251014114616.png",
     "COMP34111_AI/Week_2/Normal Form.md",
     "COMP34711_NLP/Week_3",
     "COMP34111_AI/Week_2/What is a game?.md",
-    "3rd_Yr_Project/Deep learning driven drug response prediction and mechanistic insights in cancer genomics, 2025.md",
-    "3rd_Yr_Project/Comparison of multiple modalities for drug response prediction with learning curves using neural networks and XGBoost.md",
     "COMP34111_AI/Week_3",
     "3rd_Yr_Project/XGBoost.md",
     "BMAN24521_Orgs/Week_3/Labour Process Theory.md",
