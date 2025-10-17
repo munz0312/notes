@@ -10,10 +10,13 @@ To generate this sort of tree:
 	3. Fill in the payoff table
 
 For games with chance
-1. or each reachable final node:
+1. For each reachable final node:
 	- Calculate probability: Multiply all probabilities along the path
 	- Multiply the probability by the payoff -> expected payoff
 2. Sum all the values from 1.
+
+![[Pasted image 20251016151841.png]]
+![[Pasted image 20251016151852.png]]
 
 ![[Pasted image 20251014093217.png]]
 
