@@ -13,7 +13,7 @@ Outputs IC50
 
 ![[Pasted image 20251020230716.png]]
 
-"Essential Drugs"
+"Essential Drugs" 
 ![[Pasted image 20251020232857.png]]
 
 
