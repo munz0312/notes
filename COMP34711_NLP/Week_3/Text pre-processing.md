@@ -79,3 +79,21 @@ Calculating the probabilities:
 
 ![[Pasted image 20251014123516.png]]
 ![[Pasted image 20251014124219.png]]
+
+Transformation based learning:
+- Start with a simple solution to the problem
+- iteration: apply transformations to get best results, eg by correcting errors (from the simple solution)
+- stop when no more (or little) improvement can be made
+
+The transformation rules are automatically induced from training.
+
+![[Pasted image 20251021110906.png]]
+![[Pasted image 20251021111306.png]]
+![[Pasted image 20251021111317.png]]
+![[Pasted image 20251021111333.png]]
+*example transformation table*
+
+Once the rules/transformations are learnt:
+- Apply the initial tagging
+	- Most frequent POS tags
+- Apply the rewrite rules based on the training data.

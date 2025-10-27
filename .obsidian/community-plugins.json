@@ -1,4 +1,5 @@
 [
   "vim-toggle",
-  "quickadd"
+  "quickadd",
+  "obsidian-vimrc-support"
 ]
