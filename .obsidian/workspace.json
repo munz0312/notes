@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b15b93aaaa241a8c",
+            "id": "511bc58157104ecd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BMAN24521_Orgs/Week 5/Changing Skills.md",
+                "file": "COMP34711_NLP/Week 5/DL for NLP (RNN).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Changing Skills"
+              "title": "DL for NLP (RNN)"
             }
           }
         ]
@@ -172,8 +172,30 @@
       "bases:Create new base": false
     }
   },
-  "active": "b15b93aaaa241a8c",
+  "active": "511bc58157104ecd",
   "lastOpenFiles": [
+    "Pasted image 20251028123953.png",
+    "Pasted image 20251028123711.png",
+    "Pasted image 20251028123332.png",
+    "Pasted image 20251028123323.png",
+    "Pasted image 20251028122125.png",
+    "Pasted image 20251028121652.png",
+    "Pasted image 20251028121506.png",
+    "Pasted image 20251028120427.png",
+    "Pasted image 20251028120420.png",
+    "Pasted image 20251028120346.png",
+    "COMP34711_NLP/Week 4/Distributional Semantics.md",
+    "COMP34711_NLP/Week 5/DL for NLP (RNN).md",
+    "COMP34711_NLP/Week_3/Examples of tokenisers.md",
+    "COMP34711_NLP/Week 4/Word Senses.md",
+    "COMP34711_NLP/Week 5",
+    "COMP34711_NLP/Week_3/Text pre-processing.md",
+    "COMP34111_AI/Week 4/Untitled.md",
+    "COMP34111_AI/Week 4/Minimax Algorithm.md",
+    "Pasted image 20251028094441.png",
+    "COMP34111_AI/Week_3/Learning Equilibria.md",
+    "COMP34111_AI/Week_2/What is a game?.md",
+    "COMP34111_AI/Week 4",
     "BMAN24521_Orgs/Week 5/Changing Skills.md",
     "BMAN24521_Orgs/Week 5",
     "COMP34111_AI/Week_3/Best Response.md",
@@ -182,43 +204,21 @@
     "COMP33511_UX/Week 4/Practical Ethics.md",
     "COMP34111_AI/Week_3/Mixed Strategies.md",
     "COMP34111_AI/Week_3/Dominance.md",
-    "Pasted image 20251023154913.png",
-    "Pasted image 20251023154321.png",
-    "Pasted image 20251023154303.png",
-    "Pasted image 20251023153738.png",
-    "Pasted image 20251023153108.png",
-    "Pasted image 20251023152801.png",
-    "Pasted image 20251023152155.png",
-    "Pasted image 20251023151418.png",
-    "Pasted image 20251023151354.png",
-    "Pasted image 20251023150640.png",
     "COMP33511_UX/Week 4",
-    "COMP34711_NLP/Week 4/Distributional Semantics.md",
-    "COMP34711_NLP/Week 4/Word Senses.md",
-    "COMP34711_NLP/Week_3/Text pre-processing.md",
-    "COMP34711_NLP/Week_3/Examples of tokenisers.md",
     "Pasted image 20251021110931.md",
     "COMP34111_AI/Week_3/Non Zero-Sum Games.md",
     "COMP34711_NLP/Week 4",
     "COMP34111_AI/Week_3/Zero-Sum Equilibria.md",
     "COMP34111_AI/Week_2/Normal Form.md",
-    "COMP34111_AI/Week_2/What is a game?.md",
     "3rd_Yr_Project/DRPO.md",
     "BMAN24521_Orgs/Week_4/Changes in the workplace.md",
     "BMAN24521_Orgs/Week_4",
     "COMP33511_UX/Week_3/Seminar.md",
     "COMP33511_UX/Week_3/UXD.md",
     "3rd_Yr_Project/Comparison of multiple modalities for drug response prediction with learning curves using neural networks and XGBoost.md",
-    "COMP33511_UX/Week_3/People are Complicated!.md",
-    "3rd_Yr_Project/Deep learning driven drug response prediction and mechanistic insights in cancer genomics, 2025.md",
-    "COMP33511_UX/Week_1/Law et. al. 2009.md",
     "COMP33511_UX/Week_3",
     "COMP34711_NLP/Week_3",
     "COMP34111_AI/Week_3",
-    "3rd_Yr_Project/XGBoost.md",
-    "BMAN24521_Orgs/Week_3/Labour Process Theory.md",
-    "3rd_Yr_Project",
-    "BMAN24521_Orgs/Week_3",
-    "COMP33511_UX/Week_1"
+    "3rd_Yr_Project"
   ]
 }
