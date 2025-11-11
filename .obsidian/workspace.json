@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP34111_AI/Week 4/Evaluation Functions.md",
+                "file": "COMP34711_NLP/Week 7/Attention & Transformers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Evaluation Functions"
+              "title": "Attention & Transformers"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5086555480957
+    "width": 248.5086555480957,
+    "collapsed": true
   },
   "right": {
     "id": "8e299c96a7d2afc0",
@@ -173,9 +174,31 @@
   },
   "active": "511bc58157104ecd",
   "lastOpenFiles": [
-    "COMP34111_AI/Week 4/Alpha-Beta pruning.md",
+    "Pasted image 20251111134818.png",
+    "Pasted image 20251111134357.png",
+    "Pasted image 20251111134343.png",
+    "Pasted image 20251111134020.png",
+    "Pasted image 20251111132939.png",
+    "Pasted image 20251111122124.png",
+    "Pasted image 20251111121403.png",
+    "Pasted image 20251111121330.png",
+    "Pasted image 20251111121313.png",
+    "COMP34711_NLP/Week 7/Attention & Transformers.md",
+    "Pasted image 20251111120048.png",
+    "COMP34711_NLP/Week 5/DL for NLP (RNN).md",
+    "Pasted image 20251111114758.png",
+    "COMP34711_NLP/Week 7/RNN.md",
+    "BMAN24521_Orgs/Week 7/Inclusion.md",
+    "COMP34711_NLP/Week 7",
+    "COMP33511_UX/Week 7",
+    "BMAN24521_Orgs/Week_3/Labour Process Theory.md",
+    "COMP33511_UX/Week 6/Designing the Star User Interface.md",
+    "BMAN24521_Orgs/Week 7",
+    "COMP34111_AI/Week 5/Learning.md",
+    "COMP33511_UX/Week 6",
     "COMP34111_AI/Week 4/Evaluation Functions.md",
-    "Pasted image 20251104120511.png",
+    "COMP34111_AI/Untitled",
+    "COMP34111_AI/Week 4/Alpha-Beta pruning.md",
     "COMP34111_AI/Week 4/Minimax Algorithm.md",
     "COMP34111_AI/Week_3/Best Response.md",
     "COMP34711_NLP/Week_3/Text pre-processing.md",
@@ -183,18 +206,8 @@
     "COMP34711_NLP/Week 4/Word Senses.md",
     "COMP34711_NLP/Week 4/Distributional Semantics.md",
     "COMP33511_UX/Week 5/Feedback.md",
-    "COMP34711_NLP/Week 5/DL for NLP (RNN).md",
     "COMP33511_UX/Week 5",
     "COMP34111_AI/Week 5",
-    "Pasted image 20251028123953.png",
-    "Pasted image 20251028123711.png",
-    "Pasted image 20251028123332.png",
-    "Pasted image 20251028123323.png",
-    "Pasted image 20251028122125.png",
-    "Pasted image 20251028121652.png",
-    "Pasted image 20251028121506.png",
-    "Pasted image 20251028120427.png",
-    "Pasted image 20251028120420.png",
     "COMP34711_NLP/Week 5",
     "COMP34111_AI/Week_3/Learning Equilibria.md",
     "COMP34111_AI/Week_2/What is a game?.md",
@@ -206,18 +219,6 @@
     "COMP33511_UX/Week 4/Practical Ethics.md",
     "COMP34111_AI/Week_3/Mixed Strategies.md",
     "COMP34111_AI/Week_3/Dominance.md",
-    "COMP33511_UX/Week 4",
-    "Pasted image 20251021110931.md",
-    "COMP34111_AI/Week_3/Non Zero-Sum Games.md",
-    "COMP34711_NLP/Week 4",
-    "COMP34111_AI/Week_3/Zero-Sum Equilibria.md",
-    "COMP34111_AI/Week_2/Normal Form.md",
-    "3rd_Yr_Project/DRPO.md",
-    "BMAN24521_Orgs/Week_4/Changes in the workplace.md",
-    "BMAN24521_Orgs/Week_4",
-    "COMP33511_UX/Week_3/Seminar.md",
-    "COMP33511_UX/Week_3/UXD.md",
-    "COMP33511_UX/Week_3",
-    "COMP34711_NLP/Week_3"
+    "Pasted image 20251021110931.md"
   ]
 }
