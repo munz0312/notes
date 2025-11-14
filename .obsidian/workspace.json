@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COMP34711_NLP/Week 7/Attention & Transformers.md",
+                "file": "COMP33511_UX/Week 7/Accessibility.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Attention & Transformers"
+              "title": "Accessibility"
+            }
+          },
+          {
+            "id": "63bb67eba712b411",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "COMP34111_AI/Week 7/AlphaGo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AlphaGo"
             }
           }
         ]
@@ -78,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5086555480957,
-    "collapsed": true
+    "width": 248.5086555480957
   },
   "right": {
     "id": "8e299c96a7d2afc0",
@@ -174,19 +187,23 @@
   },
   "active": "511bc58157104ecd",
   "lastOpenFiles": [
-    "Pasted image 20251111134818.png",
-    "Pasted image 20251111134357.png",
-    "Pasted image 20251111134343.png",
-    "Pasted image 20251111134020.png",
-    "Pasted image 20251111132939.png",
-    "Pasted image 20251111122124.png",
-    "Pasted image 20251111121403.png",
-    "Pasted image 20251111121330.png",
-    "Pasted image 20251111121313.png",
+    "COMP34111_AI/Week 5/MCTS.md",
+    "COMP33511_UX/Week 7/Accessibility.md",
+    "COMP34111_AI/Week 7/AlphaGo.md",
+    "Pasted image 20251113154531.png",
+    "Pasted image 20251113154315.png",
+    "Pasted image 20251113153916.png",
+    "Pasted image 20251113153810.png",
+    "Pasted image 20251113153617.png",
+    "Pasted image 20251113153142.png",
+    "Pasted image 20251113152709.png",
+    "COMP34111_AI/Week 7",
+    "Pasted image 20251113152259.png",
+    "Pasted image 20251113152127.png",
+    "Pasted image 20251113152017.png",
+    "COMP34111_AI/Week 5/Learning.md",
     "COMP34711_NLP/Week 7/Attention & Transformers.md",
-    "Pasted image 20251111120048.png",
     "COMP34711_NLP/Week 5/DL for NLP (RNN).md",
-    "Pasted image 20251111114758.png",
     "COMP34711_NLP/Week 7/RNN.md",
     "BMAN24521_Orgs/Week 7/Inclusion.md",
     "COMP34711_NLP/Week 7",
@@ -194,10 +211,8 @@
     "BMAN24521_Orgs/Week_3/Labour Process Theory.md",
     "COMP33511_UX/Week 6/Designing the Star User Interface.md",
     "BMAN24521_Orgs/Week 7",
-    "COMP34111_AI/Week 5/Learning.md",
     "COMP33511_UX/Week 6",
     "COMP34111_AI/Week 4/Evaluation Functions.md",
-    "COMP34111_AI/Untitled",
     "COMP34111_AI/Week 4/Alpha-Beta pruning.md",
     "COMP34111_AI/Week 4/Minimax Algorithm.md",
     "COMP34111_AI/Week_3/Best Response.md",
@@ -217,8 +232,6 @@
     "COMP33511_UX/Week 4/Seminar.md",
     "COMP33511_UX/Week 4/Gathering User Requirements.md",
     "COMP33511_UX/Week 4/Practical Ethics.md",
-    "COMP34111_AI/Week_3/Mixed Strategies.md",
-    "COMP34111_AI/Week_3/Dominance.md",
-    "Pasted image 20251021110931.md"
+    "COMP34111_AI/Week_3/Mixed Strategies.md"
   ]
 }
